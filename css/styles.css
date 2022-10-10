@@ -10,8 +10,37 @@ body {
   line-height: 1.35em;
 }
 button {
+  font-family: inherit;
   width: 121px;
   height: 38px;
   left: 510px;
   top: 174px;
+}
+.button-primary {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.87em;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+  width: 200px;
+  height: 50px;
+  left: 700px;
+  top: 430px;
+  background: #2196f3;
+}
+.button-secondary {
+  font-family: inherit;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62em;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+  width: 121px;
+  height: 38px;
+  left: 510px;
+  top: 174px;
+  background: #2196f3;
+  cursor: pointer;
 }
