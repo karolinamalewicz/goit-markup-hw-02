@@ -15,14 +15,3 @@ button {
   left: 510px;
   top: 174px;
 }
-
-button:nth-last-of-type(2) {
-  position: absolute;
-  width: 121px;
-  height: 38px;
-  left: 510px;
-  top: 174px;
-}
-
-button:nth-last-of-type(3) {
-}
