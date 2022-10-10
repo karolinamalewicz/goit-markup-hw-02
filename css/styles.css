@@ -8,3 +8,10 @@ body {
   font-size: 44px;
   line-height: 1.35em;
 }
+button {
+  position: absolute;
+  width: 121px;
+  height: 38px;
+  left: 510px;
+  top: 174px;
+}
