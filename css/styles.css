@@ -59,3 +59,10 @@ button {
   background: #2196f3;
   cursor: pointer;
 }
+.main-item {
+  width: 1600px;
+  height: 648px;
+  left: 0px;
+  top: 1449px;
+  background: #f5f4fa;
+}
