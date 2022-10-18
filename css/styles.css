@@ -56,22 +56,28 @@ button {
   background: #2196f3;
 }
 .main-item {
-  width: 209px;
-  height: 42px;
+  width: 135px;
+  height: 16px;
   font-family: "Roboto";
   font-style: normal;
-  font-weight: 700;
-  font-size: 36px;
-  line-height: 1.16em;
-  letter-spacing: 0.03em;
-
-  color: #212121;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14em;
+  letter-spacing: 0.02em;
+  color: #757575;
 }
 .main-item2 {
-  font-family: Raleway;
+  width: 135px;
+  height: 16px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14em;
+  letter-spacing: 0.02em;
+  color: #757575;
   width: 1600px;
   height: 252px;
-  text-decoration: none;
   background: #2f303a;
 }
 .blue {
@@ -98,9 +104,7 @@ button {
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19em;
-
   letter-spacing: 0.03em;
-
   color: black;
   text-decoration: none;
 }
@@ -114,7 +118,7 @@ button {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1.14em;
   letter-spacing: 0.02em;
 }
 .link a {
@@ -131,15 +135,6 @@ button {
 .contacts a {
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
-}
-
-.info {
-  width: 135px;
-  height: 16px;
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 16px;
-  letter-spacing: 0.02em;
 }
 
 .info a {
@@ -162,7 +157,7 @@ button {
   font-style: normal;
   color: #212121;
 }
-.main-item6 p {
+.main-item6 {
   width: 270px;
   height: 75px;
   font-family: "Roboto";
@@ -172,9 +167,8 @@ button {
   line-height: 1.71em;
   letter-spacing: 0.03em;
   color: #757575;
-  width: 270px;
-  height: 368px;
 }
+
 .main-item8 {
   width: 270px;
   height: 16px;
@@ -197,6 +191,7 @@ button {
   letter-spacing: 0.03em;
   color: #757575;
 }
+
 .main-item10 {
   width: 352px;
   height: 42px;
@@ -229,4 +224,33 @@ button {
   line-height: 1.88em;
   letter-spacing: 0.03em;
   color: #757575;
+}
+.main-item12 {
+  width: 270px;
+  height: 16px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14em;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.main-item13 {
+  width: 1600px;
+  height: 648px;
+
+  background: #f5f4fa;
+}
+.main-item14 {
+  width: 72px;
+  height: 19px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.18em;
+  letter-spacing: 0.03em;
+
+  color: #212121;
 }
