@@ -9,9 +9,6 @@ body {
 .main-news {
   width: 696px;
   height: 120px;
-  left: 452px;
-  top: 280px;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 900;
@@ -19,20 +16,15 @@ body {
   line-height: 1.36em;
   background: #2f303a;
   letter-spacing: 0.06em;
-
   color: #ffffff;
   width: 1600px;
   height: 600px;
-  left: 0px;
-  top: 80px;
 }
 
 button {
   font-family: inherit;
   width: 121px;
   height: 38px;
-  left: 510px;
-  top: 174px;
 }
 .button-primary {
   font-family: "Roboto";
@@ -43,8 +35,6 @@ button {
   color: #ffffff;
   width: 200px;
   height: 50px;
-  left: 700px;
-  top: 430px;
   background: #2196f3;
 }
 .button-secondary {
@@ -57,8 +47,7 @@ button {
   color: #ffffff;
   width: 121px;
   height: 38px;
-  left: 510px;
-  top: 174px;
+
   background: #2196f3;
   cursor: pointer;
 }
@@ -67,16 +56,13 @@ button {
   background: #2196f3;
 }
 .main-item {
-  position: absolute;
   width: 209px;
   height: 42px;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.16em;
-  text-align: center;
   letter-spacing: 0.03em;
 
   color: #212121;
@@ -85,8 +71,7 @@ button {
   font-family: Raleway;
   width: 1600px;
   height: 252px;
-  left: 0px;
-  top: 2097px;
+  text-decoration: none;
   background: #2f303a;
 }
 .blue {
@@ -95,9 +80,6 @@ button {
 .main-item3 {
   width: 145px;
   height: 31px;
-  left: 215px;
-  top: 2157px;
-
   font-family: "Raleway";
   font-style: normal;
   font-weight: 700;
@@ -111,9 +93,6 @@ button {
 .main-item4 {
   width: 145px;
   height: 31px;
-  left: 215px;
-  top: 24px;
-
   font-family: "Raleway";
   font-style: normal;
   font-weight: 700;
@@ -129,12 +108,8 @@ button {
   color: blue;
 }
 .link {
-  position: absolute;
   width: 53px;
   height: 16px;
-  left: 453px;
-  top: 32px;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
@@ -159,11 +134,8 @@ button {
 }
 
 .info {
-  position: absolute;
   width: 135px;
   height: 16px;
-  left: 1078px;
-  top: 32px;
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
@@ -173,13 +145,10 @@ button {
 .info a {
   width: 110px;
   height: 16px;
-  left: 1263px;
-  top: 32px;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14em;
   letter-spacing: 0.02em;
-
   color: #757575;
   text-decoration: none;
 }
@@ -187,117 +156,77 @@ button {
   color: #2196f3;
 }
 .main-item5 {
-  position: absolute;
   width: 270px;
   height: 16px;
-  left: 215px;
-  top: 774px;
-
   font-family: "Roboto";
   font-style: normal;
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 1.14em;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
-
   color: #212121;
 }
 .main-item6 p {
-  position: absolute;
   width: 270px;
   height: 75px;
-  left: 215px;
-  top: 800px;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71em;
-
   letter-spacing: 0.03em;
-
   color: #757575;
+  width: 270px;
+  height: 368px;
 }
 .main-item8 {
-  position: absolute;
   width: 270px;
   height: 16px;
-  left: 215px;
-  top: 774px;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
-
   color: #212121;
 }
 .main-item9 {
-  position: absolute;
   width: 130px;
   height: 19px;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.18em;
-  text-align: center;
   letter-spacing: 0.03em;
-
   color: #757575;
 }
 .main-item10 {
-  position: absolute;
   width: 352px;
   height: 42px;
-  left: 624px;
-  top: 969px;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.27em;
-  text-align: center;
   letter-spacing: 0.03em;
-
   color: #212121;
 }
 .main-item11 {
-  position: absolute;
   width: 322px;
   height: 36px;
-  left: 239px;
-  top: 576px;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
   line-height: 2em;
   letter-spacing: 0.06em;
-
   color: #212121;
 }
 .list-item {
-  position: absolute;
   width: 322px;
   height: 30px;
-  left: 239px;
-  top: 616px;
-
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.88em;
   letter-spacing: 0.03em;
-
   color: #757575;
 }
